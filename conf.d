@@ -1,0 +1,1 @@
+/Users/richardoliverbray/Dropbox/Mackup/.config/fish/conf.d

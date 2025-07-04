@@ -1,0 +1,5 @@
+# Ignore sensitive files
+secrets.fish
+
+# Ignore system-specific fish variables
+fish_variables
